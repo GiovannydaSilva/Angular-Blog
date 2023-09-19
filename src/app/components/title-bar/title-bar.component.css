@@ -1,0 +1,11 @@
+.menu_title_container{
+  color: white;
+}
+
+.menu_title_container > h1{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 135px;
+  display: flex;
+  justify-content: center;
+}
