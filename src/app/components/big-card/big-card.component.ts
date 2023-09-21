@@ -12,7 +12,9 @@ export class BigCardComponent {
   @Input()
   cardTitle: string = "";
   @Input()
-  cardInfo: string = ""
+  cardInfo: string = "";
+  @Input()
+  id: string = "0";
 
 
 
